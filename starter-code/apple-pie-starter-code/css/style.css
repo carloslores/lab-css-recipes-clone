@@ -18,7 +18,7 @@
     height: 750px;
     width: 100%;
     position: relative;
-    background-image: url(file:///C:/Users/asus/DAY1/lab-javascript-basic-algorithms-master/lab-css-recipes-clone-master/starter-code/apple-pie-starter-code/images/apple-pie.jpg);
+    background-image: url(../images/apple-pie.jpg);
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
